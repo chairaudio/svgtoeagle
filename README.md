@@ -13,6 +13,6 @@ This is different to other converters because it:
 * Copes with both filled and unfilled paths
 * Doesn't need installing - just upload an SVG, and copy/paste the script
 
-[TRY IT NOW!](https://gfwilliams.github.io/svgtoeagle/)
+[TRY IT NOW!](https://chairaudio.github.io/svgtoeagle/)
 
 Like this? Please support me and [check out Espruino!](http://www.espruino.com)
