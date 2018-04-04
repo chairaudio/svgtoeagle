@@ -2,7 +2,7 @@
 <body>
 <h1>svgtoeagle</h1>
 
-<p>SVG to Eagle CAD converter - <a href="https://github.com/chairaudio/svgtoeagle">See here for more info</a></p>
+<p>SVG to Eagle CAD converter - <a href="https://github.com/gfwilliams/svgtoeagle">See here for more info</a></p>
 
 <h3>How to use:</h3>
 
@@ -43,9 +43,9 @@ var FLIP_HORIZ = true;
 var SCALE = 1/90;
 var DRAWSCALE = 1/SCALE;
 var SUBSAMPLING = 5; // subsampling of SVG path
-var SIMPLIFY = 0.1*SCALE;
+var SIMPLIFY = 0.01*SCALE;
 var SIMPLIFYHQ = true;
-var TRACEWIDTH = "0.1mm";
+var TRACEWIDTH = "0.01mil";
 
 function dist(a,b) {
   var dx = a.x-b.x;
